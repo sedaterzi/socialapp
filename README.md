@@ -1,16 +1,16 @@
-# socialapp
+# Sosyal Medya Uygulaması
 
-A new Flutter project.
+AMAÇ:
 
-## Getting Started
+İnsanların haber alma, sosyal ilişkiler kurma ve dijitalleşmiş dünyada insan doğasının vazgeçilmez bir unsuru olan sosyalleşme ihtiyacını android ortamda karşılamak amacıyla Facebook ve Instagram karışımı clone bir uygulama gerçekleştirdim
 
-This project is a starting point for a Flutter application.
+TEKNİK DETAY: 
 
-A few resources to get you started if this is your first Flutter project:
+Android ortamda geliştirilen uygulamanın front-end ve back-end kısımlarını Flutter üzerinde kodladım. Programın verilerini saklamak ve işlemek için firebase teknolojisinin sunduğu Authentication, Firestore, Storage, Cloud Functions gibi servisleri kullandım.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+KAZANÇLAR:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bir amaç doğrultusunda amaca hizmet edebilen bir mobil uygulamanın ön-yüz, arka-yüz ve de veritabanı olmak üzere başlıca üç temel yapı bakımından da geliştirebilme kazanımını elde ettim. Bu sayede Flutter üzerinde bahsi geçen diğer teknolojilerden de yararlanarak Full Stack Developer olma yolunda ilk adımımı atmış bulunuyorum.
+
+PROJE DETAY RAPORU
+[SocialApp_Rapor.pdf](https://github.com/sedaterzi/socialapp/files/7330835/SocialApp_Rapor.pdf)
