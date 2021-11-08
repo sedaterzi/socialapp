@@ -12,6 +12,3 @@ KAZANÇLAR:
 
 Bir amaç doğrultusunda amaca hizmet edebilen bir mobil uygulamanın ön-yüz, arka-yüz ve de veritabanı olmak üzere başlıca üç temel yapı bakımından da geliştirebilme kazanımını elde ettim. Bu sayede Flutter üzerinde bahsi geçen diğer teknolojilerden de yararlanarak Full Stack Developer olma yolunda ilk adımımı atmış bulunuyorum.
 
-PROJE DETAY RAPORU
-
-[SocialApp_Rapor.pdf](https://github.com/sedaterzi/socialapp/files/7330835/SocialApp_Rapor.pdf)
